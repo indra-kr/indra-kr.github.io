@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: https://indra-kr.github.io
+title: indra-kr.github.io
 
 # Your name to show in the footer
 author: indra
@@ -14,7 +14,7 @@ author: indra
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Repository: "https://www.github.com/indra-kr/"
+  Github Repository: "https://www.github.com/indra-kr/"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
@@ -46,7 +46,7 @@ social-network-links:
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: /in/daegeun-jeong-5525b315b
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
