@@ -14,11 +14,13 @@ author: indra
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Github Repository: "https://www.github.com/indra-kr/"
-#  Resources:
-#    - Beautiful Jekyll: "https://beautifuljekyll.com"
-#    - Learn markdown: "https://www.markdowntutorial.com/"
-#  Author's home: "https://indra-kr.github.io"
+  Github Main: "https://www.github.com/indra-kr/"
+  Penetration Test:
+    - Exploits: "https://github.com/indra-kr/Exploits"
+    - Tools: "https://github.com/indra-kr/Tools"
+  Linux:
+    - Static Program Analysis: "https://github.com/indra-kr/Linux-Static-Analysis"
+    - Dynamic Program Analysis: "https://github.com/indra-kr/Linux-Dynamic-Analysis"
 
 # --- Logo --- #
 
