@@ -18,9 +18,9 @@ navbar-links:
   Penetration Test:
     - Exploits: "https://github.com/indra-kr/Exploits"
     - Tools: "https://github.com/indra-kr/Tools"
-  Linux:
-    - Static Program Analysis: "https://github.com/indra-kr/Linux-Static-Analysis"
-    - Dynamic Program Analysis: "https://github.com/indra-kr/Linux-Dynamic-Analysis"
+  Linux           :
+    - Static analysis: "https://github.com/indra-kr/Linux-Static-Analysis"
+    - Dynamic analysis: "https://github.com/indra-kr/Linux-Dynamic-Analysis"
 
 # --- Logo --- #
 
