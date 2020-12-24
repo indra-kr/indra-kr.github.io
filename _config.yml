@@ -14,7 +14,9 @@ author: indra
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Papers: "https://www.github.com/indra-kr/Papers#Papers"
+  Articles: 
+    - Papers: "https://github.com/indra-kr/Papers#Papers"
+    - Presentation: "https://github.com/indra-kr/Papers#Presentation"
   Penetration Test:
     - Exploits: "https://github.com/indra-kr/Exploits#Exploits"
     - Tools: "https://github.com/indra-kr/Tools#Tools"
