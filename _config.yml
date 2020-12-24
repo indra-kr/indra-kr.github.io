@@ -14,13 +14,13 @@ author: indra
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Papers: "https://www.github.com/indra-kr/Papers"
+  Papers: "https://www.github.com/indra-kr/Papers#Papers"
   Penetration Test:
-    - Exploits: "https://github.com/indra-kr/Exploits"
-    - Tools: "https://github.com/indra-kr/Tools"
+    - Exploits: "https://github.com/indra-kr/Exploits#Exploits"
+    - Tools: "https://github.com/indra-kr/Tools#Tools"
   Linux           :
-    - Static analysis: "https://github.com/indra-kr/Linux-Static-Analysis"
-    - Dynamic analysis: "https://github.com/indra-kr/Linux-Dynamic-Analysis"
+    - Static analysis: "https://github.com/indra-kr/Linux-Static-Analysis#Linux-Static-Analysis"
+    - Dynamic analysis: "https://github.com/indra-kr/Linux-Dynamic-Analysis#Linux-Dynamic-Analysis"
 
 # --- Logo --- #
 
