@@ -15,12 +15,12 @@ author: indra
 
 navbar-links:
   Articles: 
-    - Papers: "https://github.com/indra-kr/Papers#Papers"
-    - Presentation: "https://github.com/indra-kr/Papers#Presentation"
+    - Papers: "https://github.com/indra-kr/Papers#papers"
+    - Presentation: "https://github.com/indra-kr/Papers#presentation"
   Penetration Test:
-    - Exploits: "https://github.com/indra-kr/Exploits#Exploits"
-    - Tools: "https://github.com/indra-kr/Tools#Tools"
-  Linux           :
+    - Exploits: "https://github.com/indra-kr/Exploits#exploits"
+    - Tools: "https://github.com/indra-kr/Tools#tools"
+  Linux:
     - Static analysis: "https://github.com/indra-kr/Linux-Static-Analysis#Linux-Static-Analysis"
     - Dynamic analysis: "https://github.com/indra-kr/Linux-Dynamic-Analysis#Linux-Dynamic-Analysis"
 
